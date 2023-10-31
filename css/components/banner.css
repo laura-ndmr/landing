@@ -1,0 +1,26 @@
+.banner {
+  background-image: url(https://images.unsplash.com/photo-1544892504-5a42d285ab6f?auto=format&fit=crop&q=80&w=3164&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+  background-position: 50% 60%;
+  color: white;
+  padding: 120px 0;
+}
+
+.title {
+  width: 700px;
+  margin: 50px auto;
+}
+
+h1 {
+  color: #333640;
+  font-size: 50px;
+  font-weight: 900;
+  font-family: 'Abril Fatface';
+}
+
+h2 {
+  color: #575F7D;
+  font-size: 30px;
+  font-weight: 900;
+  font-family: 'Abril Fatface';
+}
